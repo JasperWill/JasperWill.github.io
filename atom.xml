@@ -1,30 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
-  
+  <title>Jasper_Blog</title>
+  <subtitle>静水流深 | 沧笙踏歌</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-11-11T02:27:57.000Z</updated>
+  <updated>2016-11-11T03:31:02.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Jasper_GDUFS</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>秋日，私语</title>
+    <link href="http://yoursite.com/2016/11/11/%E7%A7%8B%E6%97%A5%EF%BC%8C%E7%A7%81%E8%AF%AD/"/>
+    <id>http://yoursite.com/2016/11/11/秋日，私语/</id>
+    <published>2016-11-11T03:29:27.000Z</published>
+    <updated>2016-11-11T03:31:02.000Z</updated>
+    
+    <content type="html"><![CDATA[<p> 秋风起兮白云飞，草木黄落兮雁南归。</p>
+<p>吹秋天的风，淋秋天的雨，感受着这个季节带给我的快乐与忧伤，在悠闲的午后，没有往日的忧愁，也不去想前方等着自己的未知，静静地听着耳机传来最爱的音乐，或悠扬，或激昂，此刻没有任何人打扰，只有自己飘渺的思绪，握不住，不知所踪，却又清晰明了！</p>
+<a id="more"></a>
+<p>雨似乎累了，终于停歇了一会，下得沉寂淅沥，没有电闪雷鸣的帷幕，没有狂风大作高潮，一切都变得那么委婉那么寂寥，却总能够给予人淡淡悲凉与忧伤！秋风秋雨愁煞人，是人触景伤情，还是景使人殇，不得而知。而周遭一切又像一首主旋律总能勾起内心些许记忆的过往，喜与悲，得与失，是与非；亲情，友情，爱情，纷纷扰扰，扑朔迷离，纠结煎熬。雨侵袭润透衣衫打湿了发梢却冲淡不了即使已经日渐模糊的回忆符号，所有记忆是随着雨中的落叶尘封心底，知道有些错误，一辈子只能犯一次，往事只是一面警钟，未来的我，更好的我，just for my dream &amp; my life！</p>
+<p>喜欢独自坐在茶果最里的角落，敲着在脑海中兜转了多次的逻辑代码，看着自己给自己挖的坑慢慢的填好。写着自己演绎千百回的故事，自己设置好的悬念看起来似乎精彩绝伦，但别人看不懂，只能自娱自乐。朋友圈有人趁着秋日的凉爽，约上三两好友，或带上挚爱，呼吸室外新鲜的空气，也在不停的享受着，惬意。而我的惬意则在室内，我喜欢安静，听着音乐，敲着代码写着文，同样的，我也很享受，惬意。</p>
+<p>虽然目光所及之处没有随风飘落的泛黄的树叶，但微凉的天气还是告诉着我，入秋了，这个我最喜欢的季节，再不明显，在短暂，它也确确实实存在过，这季节的变迁就这样总能激起我对万物的感伤。纷纷落叶黄，淡淡残花香，一切变得那么顺理成章。光阴在四季轮回中穿梭，秋似乎还是去年的秋，而脸却不再是昨日的脸！</p>
+<p>喜欢徜徉在历史的长河里，看历史的繁华更迭，学前人的智慧处世。曾想独步天涯，看残存的中国古都，感受那一种叫历史的生活。最近脑海里总是浮现姑苏城的胥门，那挺立的伍子胥像，徒步在那一片断垣残壁，抚摸着那长了青苔的青砖，那是留住了多少岁月的斑驳，才会有沉甸甸的颔首。多想也想成为那么一座不为世人惊扰的古城，无论经历多少风雨沧桑，几度辉煌，极度沉沦，都一直一直，依旧是那么一副不变的模样。然而，终究是不能啊，会有离别的忧伤，会有快乐的欢唱，会有莞尔的美丽，会有低沉的回望。</p>
+<p>什么时候才能再东踏苏杭，南走洛阳，西游长安，北行燕京……</p>
+<p>秋风起，黄叶落</p>
+<p>花开一世，心落凡尘</p>
+<p>抬望眼</p>
+<p>秋风起兮</p>
+<p>云离开的洒落了的泪</p>
+<p>跌落被夜色染墨的大地</p>
+<p>微风徐徐</p>
+<p>掠过</p>
+<p>又见秋意朦胧</p>
+<p>殇秋</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt; 秋风起兮白云飞，草木黄落兮雁南归。&lt;/p&gt;
+&lt;p&gt;吹秋天的风，淋秋天的雨，感受着这个季节带给我的快乐与忧伤，在悠闲的午后，没有往日的忧愁，也不去想前方等着自己的未知，静静地听着耳机传来最爱的音乐，或悠扬，或激昂，此刻没有任何人打扰，只有自己飘渺的思绪，握不住，不知所踪，却又清晰明了！&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="心情" scheme="http://yoursite.com/tags/%E5%BF%83%E6%83%85/"/>
+    
+      <category term="测试" scheme="http://yoursite.com/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
     <link href="http://yoursite.com/2016/11/11/hello-world/"/>
     <id>http://yoursite.com/2016/11/11/hello-world/</id>
     <published>2016-11-11T02:27:57.000Z</published>
-    <updated>2016-11-11T02:27:57.000Z</updated>
+    <updated>2016-11-11T03:31:53.000Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
 <p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<a id="more"></a>
 <h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
 <p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
 <h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
@@ -35,10 +77,16 @@
     
     <summary type="html">
     
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#Create-a-new-post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;$ hexo new &lt;span class=&quot;string&quot;&gt;&quot;My New Post&quot;&lt;/span&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/writing.html&quot;&gt;Writing&lt;/a&gt;&lt;/p&gt;
     
     </summary>
     
+    
+      <category term="测试" scheme="http://yoursite.com/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+      <category term="test" scheme="http://yoursite.com/tags/test/"/>
     
   </entry>
   
