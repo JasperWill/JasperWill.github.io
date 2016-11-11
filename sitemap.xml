@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2016/11/11/%E6%97%A0%E9%A2%98/</loc>
+    
+    <lastmod>2016-11-11T09:32:47.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/photo/index.html</loc>
+    
+    <lastmod>2016-11-11T09:13:38.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/photo/output.json</loc>
+    
+    <lastmod>2016-11-11T09:07:11.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/photo/tool.js</loc>
+    
+    <lastmod>2016-11-11T09:06:50.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2016/11/11/hello-world/</loc>
     
     <lastmod>2016-11-11T03:31:53.000Z</lastmod>
