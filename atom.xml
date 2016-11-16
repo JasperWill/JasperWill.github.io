@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-11-11T09:32:47.000Z</updated>
+  <updated>2016-11-16T15:33:04.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,45 +16,73 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>无题</title>
-    <link href="http://yoursite.com/2016/11/11/%E6%97%A0%E9%A2%98/"/>
-    <id>http://yoursite.com/2016/11/11/无题/</id>
-    <published>2016-11-11T09:30:23.000Z</published>
-    <updated>2016-11-11T09:32:47.000Z</updated>
+    <title>静默</title>
+    <link href="http://yoursite.com/2016/11/16/%E9%9D%99%E9%BB%98/"/>
+    <id>http://yoursite.com/2016/11/16/静默/</id>
+    <published>2016-11-16T15:16:03.000Z</published>
+    <updated>2016-11-16T15:33:04.000Z</updated>
     
-    <content type="html"><![CDATA[<p>我们常常需要走很多的路</p>
-<p>看很多的风景</p>
-<p>读很多的书</p>
-<p>听很多的故事</p>
-<p>才能够在某一个不经意的瞬间 </p>
-<p>发现自己在改变</p>
+    <content type="html"><![CDATA[<p>&#x671B;&#x7740;&#x9759;&#x9ED8;&#x7684;&#x6E56;<br>&#x966A;&#x4F34;&#x7740;&#x9759;&#x9ED8;&#x7684;&#x6211;<br>&#x60F3;&#x8D77;&#x9759;&#x9ED8;&#x7684;&#x4F60;<br>&#x66FE;&#x7ECF;&#x4E5F;&#x9759;&#x9ED8;&#x5730;&#x5750;&#x5728;&#x6211;&#x7684;&#x8EAB;&#x8FB9;  </p>
+<p>&#x7275;&#x4F60;&#x7684;&#x624B;<br>&#x9759;&#x9ED8;&#x5730;&#x8DEF;&#x8FC7;&#x6625;&#x590F;&#x79CB;&#x51AC;  </p>
 <a id="more"></a>
-<p>而那些改变你的路</p>
-<p>影响你的风景</p>
-<p>教育你的书和打动你的故事</p>
-<p>它们并没有因你而发生任何变化</p>
-<p>它们还停留在原来的地方</p>
-<p>做着原来的事情</p>
-<p>所以有些人有些事</p>
-<p>路过你的生命就是为了去帮助你变成另外一个模样</p>
-<p>并不要指望它们遇见了你就会因此停留下来</p>
+<p>&#x6625;&#x65E5;&#x7684;&#x67F3;&#x6811;&#x4E0B;<br>&#x4F60;&#x6211;&#x9759;&#x9ED8;&#x76F8;&#x89C6;<br>&#x590F;&#x65E5;&#x7684;&#x96E8;&#x4F1E;&#x4E0B;<br>&#x4F60;&#x6211;&#x76F8;&#x6FE1;&#x4EE5;&#x6CAB;<br>&#x79CB;&#x65E5;&#x7684;&#x843D;&#x53F6;&#x4E0B;<br>&#x4F60;&#x6211;&#x611F;&#x6168;&#x65F6;&#x5149;<br>&#x51AC;&#x65E5;&#x7684;&#x51B0;&#x96EA;&#x4E0B;<br>&#x4F60;&#x6211;&#x4F9D;&#x504E;&#x53D6;&#x6696;  </p>
+<p>&#x4E60;&#x60EF;&#x9759;&#x9ED8;&#x7684;&#x4F60;<br>&#x4E60;&#x60EF;&#x8BA9;&#x6211;&#x9759;&#x9ED8;<br>&#x9759;&#x9ED8;&#x5730;&#x629A;&#x6478;&#x8EAB;&#x65C1;&#x7684;&#x51F3;&#x5B50;<br>&#x5374;&#x53D1;&#x73B0;&#x5C11;&#x4E86;&#x9759;&#x9ED8;&#x7684;&#x4F60;</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;我们常常需要走很多的路&lt;/p&gt;
-&lt;p&gt;看很多的风景&lt;/p&gt;
-&lt;p&gt;读很多的书&lt;/p&gt;
-&lt;p&gt;听很多的故事&lt;/p&gt;
-&lt;p&gt;才能够在某一个不经意的瞬间 &lt;/p&gt;
-&lt;p&gt;发现自己在改变&lt;/p&gt;
+      &lt;p&gt;&amp;#x671B;&amp;#x7740;&amp;#x9759;&amp;#x9ED8;&amp;#x7684;&amp;#x6E56;&lt;br&gt;&amp;#x966A;&amp;#x4F34;&amp;#x7740;&amp;#x9759;&amp;#x9ED8;&amp;#x7684;&amp;#x6211;&lt;br&gt;&amp;#x60F3;&amp;#x8D77;&amp;#x9759;&amp;#x9ED8;&amp;#x7684;&amp;#x4F60;&lt;br&gt;&amp;#x66FE;&amp;#x7ECF;&amp;#x4E5F;&amp;#x9759;&amp;#x9ED8;&amp;#x5730;&amp;#x5750;&amp;#x5728;&amp;#x6211;&amp;#x7684;&amp;#x8EAB;&amp;#x8FB9;  &lt;/p&gt;
+&lt;p&gt;&amp;#x7275;&amp;#x4F60;&amp;#x7684;&amp;#x624B;&lt;br&gt;&amp;#x9759;&amp;#x9ED8;&amp;#x5730;&amp;#x8DEF;&amp;#x8FC7;&amp;#x6625;&amp;#x590F;&amp;#x79CB;&amp;#x51AC;  &lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="诗意" scheme="http://yoursite.com/tags/%E8%AF%97%E6%84%8F/"/>
+    
+      <category term="回忆" scheme="http://yoursite.com/tags/%E5%9B%9E%E5%BF%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>无题</title>
+    <link href="http://yoursite.com/2016/11/11/%E6%97%A0%E9%A2%98/"/>
+    <id>http://yoursite.com/2016/11/11/无题/</id>
+    <published>2016-11-11T09:30:23.000Z</published>
+    <updated>2016-11-16T15:38:09.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>&#x6211;&#x4EEC;&#x5E38;&#x5E38;&#x9700;&#x8981;&#x8D70;&#x5F88;&#x591A;&#x7684;&#x8DEF;</p>
+<p>&#x770B;&#x5F88;&#x591A;&#x7684;&#x98CE;&#x666F;</p>
+<p>&#x8BFB;&#x5F88;&#x591A;&#x7684;&#x4E66;</p>
+<p>&#x542C;&#x5F88;&#x591A;&#x7684;&#x6545;&#x4E8B;</p>
+<p>&#x624D;&#x80FD;&#x591F;&#x5728;&#x67D0;&#x4E00;&#x4E2A;&#x4E0D;&#x7ECF;&#x610F;&#x7684;&#x77AC;&#x95F4; </p>
+<p>&#x53D1;&#x73B0;&#x81EA;&#x5DF1;&#x5728;&#x6539;&#x53D8;</p>
+<a id="more"></a>
+<p>&#x800C;&#x90A3;&#x4E9B;&#x6539;&#x53D8;&#x4F60;&#x7684;&#x8DEF;</p>
+<p>&#x5F71;&#x54CD;&#x4F60;&#x7684;&#x98CE;&#x666F;</p>
+<p>&#x6559;&#x80B2;&#x4F60;&#x7684;&#x4E66;&#x548C;&#x6253;&#x52A8;&#x4F60;&#x7684;&#x6545;&#x4E8B;</p>
+<p>&#x5B83;&#x4EEC;&#x5E76;&#x6CA1;&#x6709;&#x56E0;&#x4F60;&#x800C;&#x53D1;&#x751F;&#x4EFB;&#x4F55;&#x53D8;&#x5316;</p>
+<p>&#x5B83;&#x4EEC;&#x8FD8;&#x505C;&#x7559;&#x5728;&#x539F;&#x6765;&#x7684;&#x5730;&#x65B9;</p>
+<p>&#x505A;&#x7740;&#x539F;&#x6765;&#x7684;&#x4E8B;&#x60C5;</p>
+<p>&#x6240;&#x4EE5;&#x6709;&#x4E9B;&#x4EBA;&#x6709;&#x4E9B;&#x4E8B;</p>
+<p>&#x8DEF;&#x8FC7;&#x4F60;&#x7684;&#x751F;&#x547D;&#x5C31;&#x662F;&#x4E3A;&#x4E86;&#x53BB;&#x5E2E;&#x52A9;&#x4F60;&#x53D8;&#x6210;&#x53E6;&#x5916;&#x4E00;&#x4E2A;&#x6A21;&#x6837;</p>
+<p>&#x5E76;&#x4E0D;&#x8981;&#x6307;&#x671B;&#x5B83;&#x4EEC;&#x9047;&#x89C1;&#x4E86;&#x4F60;&#x5C31;&#x4F1A;&#x56E0;&#x6B64;&#x505C;&#x7559;&#x4E0B;&#x6765;</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&amp;#x6211;&amp;#x4EEC;&amp;#x5E38;&amp;#x5E38;&amp;#x9700;&amp;#x8981;&amp;#x8D70;&amp;#x5F88;&amp;#x591A;&amp;#x7684;&amp;#x8DEF;&lt;/p&gt;
+&lt;p&gt;&amp;#x770B;&amp;#x5F88;&amp;#x591A;&amp;#x7684;&amp;#x98CE;&amp;#x666F;&lt;/p&gt;
+&lt;p&gt;&amp;#x8BFB;&amp;#x5F88;&amp;#x591A;&amp;#x7684;&amp;#x4E66;&lt;/p&gt;
+&lt;p&gt;&amp;#x542C;&amp;#x5F88;&amp;#x591A;&amp;#x7684;&amp;#x6545;&amp;#x4E8B;&lt;/p&gt;
+&lt;p&gt;&amp;#x624D;&amp;#x80FD;&amp;#x591F;&amp;#x5728;&amp;#x67D0;&amp;#x4E00;&amp;#x4E2A;&amp;#x4E0D;&amp;#x7ECF;&amp;#x610F;&amp;#x7684;&amp;#x77AC;&amp;#x95F4; &lt;/p&gt;
+&lt;p&gt;&amp;#x53D1;&amp;#x73B0;&amp;#x81EA;&amp;#x5DF1;&amp;#x5728;&amp;#x6539;&amp;#x53D8;&lt;/p&gt;
     
     </summary>
     
     
       <category term="心情" scheme="http://yoursite.com/tags/%E5%BF%83%E6%83%85/"/>
     
-      <category term="诗" scheme="http://yoursite.com/tags/%E8%AF%97/"/>
+      <category term="诗意" scheme="http://yoursite.com/tags/%E8%AF%97%E6%84%8F/"/>
     
   </entry>
   
@@ -63,73 +91,39 @@
     <link href="http://yoursite.com/2016/11/11/%E7%A7%8B%E6%97%A5%EF%BC%8C%E7%A7%81%E8%AF%AD/"/>
     <id>http://yoursite.com/2016/11/11/秋日，私语/</id>
     <published>2016-11-11T03:29:27.000Z</published>
-    <updated>2016-11-11T03:31:02.000Z</updated>
+    <updated>2016-11-16T15:29:56.000Z</updated>
     
-    <content type="html"><![CDATA[<p> 秋风起兮白云飞，草木黄落兮雁南归。</p>
-<p>吹秋天的风，淋秋天的雨，感受着这个季节带给我的快乐与忧伤，在悠闲的午后，没有往日的忧愁，也不去想前方等着自己的未知，静静地听着耳机传来最爱的音乐，或悠扬，或激昂，此刻没有任何人打扰，只有自己飘渺的思绪，握不住，不知所踪，却又清晰明了！</p>
+    <content type="html"><![CDATA[<p> &#x79CB;&#x98CE;&#x8D77;&#x516E;&#x767D;&#x4E91;&#x98DE;&#xFF0C;&#x8349;&#x6728;&#x9EC4;&#x843D;&#x516E;&#x96C1;&#x5357;&#x5F52;&#x3002;</p>
+<p>&#x5439;&#x79CB;&#x5929;&#x7684;&#x98CE;&#xFF0C;&#x6DCB;&#x79CB;&#x5929;&#x7684;&#x96E8;&#xFF0C;&#x611F;&#x53D7;&#x7740;&#x8FD9;&#x4E2A;&#x5B63;&#x8282;&#x5E26;&#x7ED9;&#x6211;&#x7684;&#x5FEB;&#x4E50;&#x4E0E;&#x5FE7;&#x4F24;&#xFF0C;&#x5728;&#x60A0;&#x95F2;&#x7684;&#x5348;&#x540E;&#xFF0C;&#x6CA1;&#x6709;&#x5F80;&#x65E5;&#x7684;&#x5FE7;&#x6101;&#xFF0C;&#x4E5F;&#x4E0D;&#x53BB;&#x60F3;&#x524D;&#x65B9;&#x7B49;&#x7740;&#x81EA;&#x5DF1;&#x7684;&#x672A;&#x77E5;&#xFF0C;&#x9759;&#x9759;&#x5730;&#x542C;&#x7740;&#x8033;&#x673A;&#x4F20;&#x6765;&#x6700;&#x7231;&#x7684;&#x97F3;&#x4E50;&#xFF0C;&#x6216;&#x60A0;&#x626C;&#xFF0C;&#x6216;&#x6FC0;&#x6602;&#xFF0C;&#x6B64;&#x523B;&#x6CA1;&#x6709;&#x4EFB;&#x4F55;&#x4EBA;&#x6253;&#x6270;&#xFF0C;&#x53EA;&#x6709;&#x81EA;&#x5DF1;&#x98D8;&#x6E3A;&#x7684;&#x601D;&#x7EEA;&#xFF0C;&#x63E1;&#x4E0D;&#x4F4F;&#xFF0C;&#x4E0D;&#x77E5;&#x6240;&#x8E2A;&#xFF0C;&#x5374;&#x53C8;&#x6E05;&#x6670;&#x660E;&#x4E86;&#xFF01;</p>
 <a id="more"></a>
-<p>雨似乎累了，终于停歇了一会，下得沉寂淅沥，没有电闪雷鸣的帷幕，没有狂风大作高潮，一切都变得那么委婉那么寂寥，却总能够给予人淡淡悲凉与忧伤！秋风秋雨愁煞人，是人触景伤情，还是景使人殇，不得而知。而周遭一切又像一首主旋律总能勾起内心些许记忆的过往，喜与悲，得与失，是与非；亲情，友情，爱情，纷纷扰扰，扑朔迷离，纠结煎熬。雨侵袭润透衣衫打湿了发梢却冲淡不了即使已经日渐模糊的回忆符号，所有记忆是随着雨中的落叶尘封心底，知道有些错误，一辈子只能犯一次，往事只是一面警钟，未来的我，更好的我，just for my dream &amp; my life！</p>
-<p>喜欢独自坐在茶果最里的角落，敲着在脑海中兜转了多次的逻辑代码，看着自己给自己挖的坑慢慢的填好。写着自己演绎千百回的故事，自己设置好的悬念看起来似乎精彩绝伦，但别人看不懂，只能自娱自乐。朋友圈有人趁着秋日的凉爽，约上三两好友，或带上挚爱，呼吸室外新鲜的空气，也在不停的享受着，惬意。而我的惬意则在室内，我喜欢安静，听着音乐，敲着代码写着文，同样的，我也很享受，惬意。</p>
-<p>虽然目光所及之处没有随风飘落的泛黄的树叶，但微凉的天气还是告诉着我，入秋了，这个我最喜欢的季节，再不明显，在短暂，它也确确实实存在过，这季节的变迁就这样总能激起我对万物的感伤。纷纷落叶黄，淡淡残花香，一切变得那么顺理成章。光阴在四季轮回中穿梭，秋似乎还是去年的秋，而脸却不再是昨日的脸！</p>
-<p>喜欢徜徉在历史的长河里，看历史的繁华更迭，学前人的智慧处世。曾想独步天涯，看残存的中国古都，感受那一种叫历史的生活。最近脑海里总是浮现姑苏城的胥门，那挺立的伍子胥像，徒步在那一片断垣残壁，抚摸着那长了青苔的青砖，那是留住了多少岁月的斑驳，才会有沉甸甸的颔首。多想也想成为那么一座不为世人惊扰的古城，无论经历多少风雨沧桑，几度辉煌，极度沉沦，都一直一直，依旧是那么一副不变的模样。然而，终究是不能啊，会有离别的忧伤，会有快乐的欢唱，会有莞尔的美丽，会有低沉的回望。</p>
-<p>什么时候才能再东踏苏杭，南走洛阳，西游长安，北行燕京……</p>
-<p>秋风起，黄叶落</p>
-<p>花开一世，心落凡尘</p>
-<p>抬望眼</p>
-<p>秋风起兮</p>
-<p>云离开的洒落了的泪</p>
-<p>跌落被夜色染墨的大地</p>
-<p>微风徐徐</p>
-<p>掠过</p>
-<p>又见秋意朦胧</p>
-<p>殇秋</p>
+<p>&#x96E8;&#x4F3C;&#x4E4E;&#x7D2F;&#x4E86;&#xFF0C;&#x7EC8;&#x4E8E;&#x505C;&#x6B47;&#x4E86;&#x4E00;&#x4F1A;&#xFF0C;&#x4E0B;&#x5F97;&#x6C89;&#x5BC2;&#x6DC5;&#x6CA5;&#xFF0C;&#x6CA1;&#x6709;&#x7535;&#x95EA;&#x96F7;&#x9E23;&#x7684;&#x5E37;&#x5E55;&#xFF0C;&#x6CA1;&#x6709;&#x72C2;&#x98CE;&#x5927;&#x4F5C;&#x9AD8;&#x6F6E;&#xFF0C;&#x4E00;&#x5207;&#x90FD;&#x53D8;&#x5F97;&#x90A3;&#x4E48;&#x59D4;&#x5A49;&#x90A3;&#x4E48;&#x5BC2;&#x5BE5;&#xFF0C;&#x5374;&#x603B;&#x80FD;&#x591F;&#x7ED9;&#x4E88;&#x4EBA;&#x6DE1;&#x6DE1;&#x60B2;&#x51C9;&#x4E0E;&#x5FE7;&#x4F24;&#xFF01;&#x79CB;&#x98CE;&#x79CB;&#x96E8;&#x6101;&#x715E;&#x4EBA;&#xFF0C;&#x662F;&#x4EBA;&#x89E6;&#x666F;&#x4F24;&#x60C5;&#xFF0C;&#x8FD8;&#x662F;&#x666F;&#x4F7F;&#x4EBA;&#x6B87;&#xFF0C;&#x4E0D;&#x5F97;&#x800C;&#x77E5;&#x3002;&#x800C;&#x5468;&#x906D;&#x4E00;&#x5207;&#x53C8;&#x50CF;&#x4E00;&#x9996;&#x4E3B;&#x65CB;&#x5F8B;&#x603B;&#x80FD;&#x52FE;&#x8D77;&#x5185;&#x5FC3;&#x4E9B;&#x8BB8;&#x8BB0;&#x5FC6;&#x7684;&#x8FC7;&#x5F80;&#xFF0C;&#x559C;&#x4E0E;&#x60B2;&#xFF0C;&#x5F97;&#x4E0E;&#x5931;&#xFF0C;&#x662F;&#x4E0E;&#x975E;&#xFF1B;&#x4EB2;&#x60C5;&#xFF0C;&#x53CB;&#x60C5;&#xFF0C;&#x7231;&#x60C5;&#xFF0C;&#x7EB7;&#x7EB7;&#x6270;&#x6270;&#xFF0C;&#x6251;&#x6714;&#x8FF7;&#x79BB;&#xFF0C;&#x7EA0;&#x7ED3;&#x714E;&#x71AC;&#x3002;&#x96E8;&#x4FB5;&#x88AD;&#x6DA6;&#x900F;&#x8863;&#x886B;&#x6253;&#x6E7F;&#x4E86;&#x53D1;&#x68A2;&#x5374;&#x51B2;&#x6DE1;&#x4E0D;&#x4E86;&#x5373;&#x4F7F;&#x5DF2;&#x7ECF;&#x65E5;&#x6E10;&#x6A21;&#x7CCA;&#x7684;&#x56DE;&#x5FC6;&#x7B26;&#x53F7;&#xFF0C;&#x6240;&#x6709;&#x8BB0;&#x5FC6;&#x662F;&#x968F;&#x7740;&#x96E8;&#x4E2D;&#x7684;&#x843D;&#x53F6;&#x5C18;&#x5C01;&#x5FC3;&#x5E95;&#xFF0C;&#x77E5;&#x9053;&#x6709;&#x4E9B;&#x9519;&#x8BEF;&#xFF0C;&#x4E00;&#x8F88;&#x5B50;&#x53EA;&#x80FD;&#x72AF;&#x4E00;&#x6B21;&#xFF0C;&#x5F80;&#x4E8B;&#x53EA;&#x662F;&#x4E00;&#x9762;&#x8B66;&#x949F;&#xFF0C;&#x672A;&#x6765;&#x7684;&#x6211;&#xFF0C;&#x66F4;&#x597D;&#x7684;&#x6211;&#xFF0C;just for my dream &amp; my life&#xFF01;</p>
+<p>&#x559C;&#x6B22;&#x72EC;&#x81EA;&#x5750;&#x5728;&#x8336;&#x679C;&#x6700;&#x91CC;&#x7684;&#x89D2;&#x843D;&#xFF0C;&#x6572;&#x7740;&#x5728;&#x8111;&#x6D77;&#x4E2D;&#x515C;&#x8F6C;&#x4E86;&#x591A;&#x6B21;&#x7684;&#x903B;&#x8F91;&#x4EE3;&#x7801;&#xFF0C;&#x770B;&#x7740;&#x81EA;&#x5DF1;&#x7ED9;&#x81EA;&#x5DF1;&#x6316;&#x7684;&#x5751;&#x6162;&#x6162;&#x7684;&#x586B;&#x597D;&#x3002;&#x5199;&#x7740;&#x81EA;&#x5DF1;&#x6F14;&#x7ECE;&#x5343;&#x767E;&#x56DE;&#x7684;&#x6545;&#x4E8B;&#xFF0C;&#x81EA;&#x5DF1;&#x8BBE;&#x7F6E;&#x597D;&#x7684;&#x60AC;&#x5FF5;&#x770B;&#x8D77;&#x6765;&#x4F3C;&#x4E4E;&#x7CBE;&#x5F69;&#x7EDD;&#x4F26;&#xFF0C;&#x4F46;&#x522B;&#x4EBA;&#x770B;&#x4E0D;&#x61C2;&#xFF0C;&#x53EA;&#x80FD;&#x81EA;&#x5A31;&#x81EA;&#x4E50;&#x3002;&#x670B;&#x53CB;&#x5708;&#x6709;&#x4EBA;&#x8D81;&#x7740;&#x79CB;&#x65E5;&#x7684;&#x51C9;&#x723D;&#xFF0C;&#x7EA6;&#x4E0A;&#x4E09;&#x4E24;&#x597D;&#x53CB;&#xFF0C;&#x6216;&#x5E26;&#x4E0A;&#x631A;&#x7231;&#xFF0C;&#x547C;&#x5438;&#x5BA4;&#x5916;&#x65B0;&#x9C9C;&#x7684;&#x7A7A;&#x6C14;&#xFF0C;&#x4E5F;&#x5728;&#x4E0D;&#x505C;&#x7684;&#x4EAB;&#x53D7;&#x7740;&#xFF0C;&#x60EC;&#x610F;&#x3002;&#x800C;&#x6211;&#x7684;&#x60EC;&#x610F;&#x5219;&#x5728;&#x5BA4;&#x5185;&#xFF0C;&#x6211;&#x559C;&#x6B22;&#x5B89;&#x9759;&#xFF0C;&#x542C;&#x7740;&#x97F3;&#x4E50;&#xFF0C;&#x6572;&#x7740;&#x4EE3;&#x7801;&#x5199;&#x7740;&#x6587;&#xFF0C;&#x540C;&#x6837;&#x7684;&#xFF0C;&#x6211;&#x4E5F;&#x5F88;&#x4EAB;&#x53D7;&#xFF0C;&#x60EC;&#x610F;&#x3002;</p>
+<p>&#x867D;&#x7136;&#x76EE;&#x5149;&#x6240;&#x53CA;&#x4E4B;&#x5904;&#x6CA1;&#x6709;&#x968F;&#x98CE;&#x98D8;&#x843D;&#x7684;&#x6CDB;&#x9EC4;&#x7684;&#x6811;&#x53F6;&#xFF0C;&#x4F46;&#x5FAE;&#x51C9;&#x7684;&#x5929;&#x6C14;&#x8FD8;&#x662F;&#x544A;&#x8BC9;&#x7740;&#x6211;&#xFF0C;&#x5165;&#x79CB;&#x4E86;&#xFF0C;&#x8FD9;&#x4E2A;&#x6211;&#x6700;&#x559C;&#x6B22;&#x7684;&#x5B63;&#x8282;&#xFF0C;&#x518D;&#x4E0D;&#x660E;&#x663E;&#xFF0C;&#x5728;&#x77ED;&#x6682;&#xFF0C;&#x5B83;&#x4E5F;&#x786E;&#x786E;&#x5B9E;&#x5B9E;&#x5B58;&#x5728;&#x8FC7;&#xFF0C;&#x8FD9;&#x5B63;&#x8282;&#x7684;&#x53D8;&#x8FC1;&#x5C31;&#x8FD9;&#x6837;&#x603B;&#x80FD;&#x6FC0;&#x8D77;&#x6211;&#x5BF9;&#x4E07;&#x7269;&#x7684;&#x611F;&#x4F24;&#x3002;&#x7EB7;&#x7EB7;&#x843D;&#x53F6;&#x9EC4;&#xFF0C;&#x6DE1;&#x6DE1;&#x6B8B;&#x82B1;&#x9999;&#xFF0C;&#x4E00;&#x5207;&#x53D8;&#x5F97;&#x90A3;&#x4E48;&#x987A;&#x7406;&#x6210;&#x7AE0;&#x3002;&#x5149;&#x9634;&#x5728;&#x56DB;&#x5B63;&#x8F6E;&#x56DE;&#x4E2D;&#x7A7F;&#x68AD;&#xFF0C;&#x79CB;&#x4F3C;&#x4E4E;&#x8FD8;&#x662F;&#x53BB;&#x5E74;&#x7684;&#x79CB;&#xFF0C;&#x800C;&#x8138;&#x5374;&#x4E0D;&#x518D;&#x662F;&#x6628;&#x65E5;&#x7684;&#x8138;&#xFF01;</p>
+<p>&#x559C;&#x6B22;&#x5F9C;&#x5F89;&#x5728;&#x5386;&#x53F2;&#x7684;&#x957F;&#x6CB3;&#x91CC;&#xFF0C;&#x770B;&#x5386;&#x53F2;&#x7684;&#x7E41;&#x534E;&#x66F4;&#x8FED;&#xFF0C;&#x5B66;&#x524D;&#x4EBA;&#x7684;&#x667A;&#x6167;&#x5904;&#x4E16;&#x3002;&#x66FE;&#x60F3;&#x72EC;&#x6B65;&#x5929;&#x6DAF;&#xFF0C;&#x770B;&#x6B8B;&#x5B58;&#x7684;&#x4E2D;&#x56FD;&#x53E4;&#x90FD;&#xFF0C;&#x611F;&#x53D7;&#x90A3;&#x4E00;&#x79CD;&#x53EB;&#x5386;&#x53F2;&#x7684;&#x751F;&#x6D3B;&#x3002;&#x6700;&#x8FD1;&#x8111;&#x6D77;&#x91CC;&#x603B;&#x662F;&#x6D6E;&#x73B0;&#x59D1;&#x82CF;&#x57CE;&#x7684;&#x80E5;&#x95E8;&#xFF0C;&#x90A3;&#x633A;&#x7ACB;&#x7684;&#x4F0D;&#x5B50;&#x80E5;&#x50CF;&#xFF0C;&#x5F92;&#x6B65;&#x5728;&#x90A3;&#x4E00;&#x7247;&#x65AD;&#x57A3;&#x6B8B;&#x58C1;&#xFF0C;&#x629A;&#x6478;&#x7740;&#x90A3;&#x957F;&#x4E86;&#x9752;&#x82D4;&#x7684;&#x9752;&#x7816;&#xFF0C;&#x90A3;&#x662F;&#x7559;&#x4F4F;&#x4E86;&#x591A;&#x5C11;&#x5C81;&#x6708;&#x7684;&#x6591;&#x9A73;&#xFF0C;&#x624D;&#x4F1A;&#x6709;&#x6C89;&#x7538;&#x7538;&#x7684;&#x9894;&#x9996;&#x3002;&#x591A;&#x60F3;&#x4E5F;&#x60F3;&#x6210;&#x4E3A;&#x90A3;&#x4E48;&#x4E00;&#x5EA7;&#x4E0D;&#x4E3A;&#x4E16;&#x4EBA;&#x60CA;&#x6270;&#x7684;&#x53E4;&#x57CE;&#xFF0C;&#x65E0;&#x8BBA;&#x7ECF;&#x5386;&#x591A;&#x5C11;&#x98CE;&#x96E8;&#x6CA7;&#x6851;&#xFF0C;&#x51E0;&#x5EA6;&#x8F89;&#x714C;&#xFF0C;&#x6781;&#x5EA6;&#x6C89;&#x6CA6;&#xFF0C;&#x90FD;&#x4E00;&#x76F4;&#x4E00;&#x76F4;&#xFF0C;&#x4F9D;&#x65E7;&#x662F;&#x90A3;&#x4E48;&#x4E00;&#x526F;&#x4E0D;&#x53D8;&#x7684;&#x6A21;&#x6837;&#x3002;&#x7136;&#x800C;&#xFF0C;&#x7EC8;&#x7A76;&#x662F;&#x4E0D;&#x80FD;&#x554A;&#xFF0C;&#x4F1A;&#x6709;&#x79BB;&#x522B;&#x7684;&#x5FE7;&#x4F24;&#xFF0C;&#x4F1A;&#x6709;&#x5FEB;&#x4E50;&#x7684;&#x6B22;&#x5531;&#xFF0C;&#x4F1A;&#x6709;&#x839E;&#x5C14;&#x7684;&#x7F8E;&#x4E3D;&#xFF0C;&#x4F1A;&#x6709;&#x4F4E;&#x6C89;&#x7684;&#x56DE;&#x671B;&#x3002;</p>
+<p>&#x4EC0;&#x4E48;&#x65F6;&#x5019;&#x624D;&#x80FD;&#x518D;&#x4E1C;&#x8E0F;&#x82CF;&#x676D;&#xFF0C;&#x5357;&#x8D70;&#x6D1B;&#x9633;&#xFF0C;&#x897F;&#x6E38;&#x957F;&#x5B89;&#xFF0C;&#x5317;&#x884C;&#x71D5;&#x4EAC;&#x2026;&#x2026;</p>
+<p>&#x79CB;&#x98CE;&#x8D77;&#xFF0C;&#x9EC4;&#x53F6;&#x843D;</p>
+<p>&#x82B1;&#x5F00;&#x4E00;&#x4E16;&#xFF0C;&#x5FC3;&#x843D;&#x51E1;&#x5C18;</p>
+<p>&#x62AC;&#x671B;&#x773C;</p>
+<p>&#x79CB;&#x98CE;&#x8D77;&#x516E;</p>
+<p>&#x4E91;&#x79BB;&#x5F00;&#x7684;&#x6D12;&#x843D;&#x4E86;&#x7684;&#x6CEA;</p>
+<p>&#x8DCC;&#x843D;&#x88AB;&#x591C;&#x8272;&#x67D3;&#x58A8;&#x7684;&#x5927;&#x5730;</p>
+<p>&#x5FAE;&#x98CE;&#x5F90;&#x5F90;</p>
+<p>&#x63A0;&#x8FC7;</p>
+<p>&#x53C8;&#x89C1;&#x79CB;&#x610F;&#x6726;&#x80E7;</p>
+<p>&#x6B87;&#x79CB;</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt; 秋风起兮白云飞，草木黄落兮雁南归。&lt;/p&gt;
-&lt;p&gt;吹秋天的风，淋秋天的雨，感受着这个季节带给我的快乐与忧伤，在悠闲的午后，没有往日的忧愁，也不去想前方等着自己的未知，静静地听着耳机传来最爱的音乐，或悠扬，或激昂，此刻没有任何人打扰，只有自己飘渺的思绪，握不住，不知所踪，却又清晰明了！&lt;/p&gt;
+      &lt;p&gt; &amp;#x79CB;&amp;#x98CE;&amp;#x8D77;&amp;#x516E;&amp;#x767D;&amp;#x4E91;&amp;#x98DE;&amp;#xFF0C;&amp;#x8349;&amp;#x6728;&amp;#x9EC4;&amp;#x843D;&amp;#x516E;&amp;#x96C1;&amp;#x5357;&amp;#x5F52;&amp;#x3002;&lt;/p&gt;
+&lt;p&gt;&amp;#x5439;&amp;#x79CB;&amp;#x5929;&amp;#x7684;&amp;#x98CE;&amp;#xFF0C;&amp;#x6DCB;&amp;#x79CB;&amp;#x5929;&amp;#x7684;&amp;#x96E8;&amp;#xFF0C;&amp;#x611F;&amp;#x53D7;&amp;#x7740;&amp;#x8FD9;&amp;#x4E2A;&amp;#x5B63;&amp;#x8282;&amp;#x5E26;&amp;#x7ED9;&amp;#x6211;&amp;#x7684;&amp;#x5FEB;&amp;#x4E50;&amp;#x4E0E;&amp;#x5FE7;&amp;#x4F24;&amp;#xFF0C;&amp;#x5728;&amp;#x60A0;&amp;#x95F2;&amp;#x7684;&amp;#x5348;&amp;#x540E;&amp;#xFF0C;&amp;#x6CA1;&amp;#x6709;&amp;#x5F80;&amp;#x65E5;&amp;#x7684;&amp;#x5FE7;&amp;#x6101;&amp;#xFF0C;&amp;#x4E5F;&amp;#x4E0D;&amp;#x53BB;&amp;#x60F3;&amp;#x524D;&amp;#x65B9;&amp;#x7B49;&amp;#x7740;&amp;#x81EA;&amp;#x5DF1;&amp;#x7684;&amp;#x672A;&amp;#x77E5;&amp;#xFF0C;&amp;#x9759;&amp;#x9759;&amp;#x5730;&amp;#x542C;&amp;#x7740;&amp;#x8033;&amp;#x673A;&amp;#x4F20;&amp;#x6765;&amp;#x6700;&amp;#x7231;&amp;#x7684;&amp;#x97F3;&amp;#x4E50;&amp;#xFF0C;&amp;#x6216;&amp;#x60A0;&amp;#x626C;&amp;#xFF0C;&amp;#x6216;&amp;#x6FC0;&amp;#x6602;&amp;#xFF0C;&amp;#x6B64;&amp;#x523B;&amp;#x6CA1;&amp;#x6709;&amp;#x4EFB;&amp;#x4F55;&amp;#x4EBA;&amp;#x6253;&amp;#x6270;&amp;#xFF0C;&amp;#x53EA;&amp;#x6709;&amp;#x81EA;&amp;#x5DF1;&amp;#x98D8;&amp;#x6E3A;&amp;#x7684;&amp;#x601D;&amp;#x7EEA;&amp;#xFF0C;&amp;#x63E1;&amp;#x4E0D;&amp;#x4F4F;&amp;#xFF0C;&amp;#x4E0D;&amp;#x77E5;&amp;#x6240;&amp;#x8E2A;&amp;#xFF0C;&amp;#x5374;&amp;#x53C8;&amp;#x6E05;&amp;#x6670;&amp;#x660E;&amp;#x4E86;&amp;#xFF01;&lt;/p&gt;
     
     </summary>
     
-    
-      <category term="测试" scheme="http://yoursite.com/tags/%E6%B5%8B%E8%AF%95/"/>
     
       <category term="心情" scheme="http://yoursite.com/tags/%E5%BF%83%E6%83%85/"/>
     
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/2016/11/11/hello-world/"/>
-    <id>http://yoursite.com/2016/11/11/hello-world/</id>
-    <published>2016-11-11T02:27:57.000Z</published>
-    <updated>2016-11-11T03:31:53.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<a id="more"></a>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#Create-a-new-post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;$ hexo new &lt;span class=&quot;string&quot;&gt;&quot;My New Post&quot;&lt;/span&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/writing.html&quot;&gt;Writing&lt;/a&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="test" scheme="http://yoursite.com/tags/test/"/>
-    
-      <category term="测试" scheme="http://yoursite.com/tags/%E6%B5%8B%E8%AF%95/"/>
+      <category term="诗意" scheme="http://yoursite.com/tags/%E8%AF%97%E6%84%8F/"/>
     
   </entry>
   
