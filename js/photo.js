@@ -19,10 +19,12 @@ define([], function () {
             var html, li = "";
             for (var i = begin; i < end && i < data.length; i++) {
                 li += '<li><div class="img-box">' +
-                    '<a class="img-bg" rel="example_group" href="https://github.com/JasperWill/jasper/blob/master/' + data[i] + '?raw=true"></a>' +
-                    '<img lazy-src="https://github.com/JasperWill/jasper/blob/master/' + data[i] + '?raw=true" />' +
+                    '<a class="img-bg" rel="example_group" href="http://ogmel1z56.bkt.clouddn.com/' + i + '"></a>' +
+                    '<img lazy-src="http://ogmel1z56.bkt.clouddn.com/' + i + '" />' +
                     '</li>';
             }
+
+            http://ogmel1z56.bkt.clouddn.com/2.jpg
 
             $(".img-box-ul").append(li);
             $(".img-box-ul").lazyload();
